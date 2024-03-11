@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center w-full pt-5">
-    <img class="h-20" src="@/assets/logo.png" />
+    <img class="h-20" src="@/assets/Logo.png" />
   </div>
   <div class="flex flex-col px-2 container mx-auto py-3">
   <div class="flex flex-wrap justify-center mx-auto w-full">
@@ -14,14 +14,14 @@ Time: {{ currentTime }}
     </div>
 
     <div class="bg-yellow-500 px-3 py-1 font">
-      <a href="https://raydium.io/swap/?outputCurrency=6XKKsryzoUjewxyQ3P4ZCZuVT1YnsY2bvQpJt7tNR49n" class="hover-underline ">Buy $NICKELODEON</a>
+      <a href="https://raydium.io/swap/?outputCurrency=6XKKsryzoUjewxyQ3P4ZCZuVT1YnsY2bvQpJt7tNR49n" class="hover-underline ">Buy $DISNEY</a>
     </div>
     <div class="flex flex- gap-4 bg-gray-400 pl-8 pr-8 py-1 font">
-        <div><a href="https://solscan.io/token/6XKKsryzoUjewxyQ3P4ZCZuVT1YnsY2bvQpJt7tNR49n" class="hover-underline"><strong>SOLSCAN</strong></a></div>
-        <div><a href="https://birdeye.so/token/6XKKsryzoUjewxyQ3P4ZCZuVT1YnsY2bvQpJt7tNR49n?chain=solana" class="hover-underline"><strong>BIRDEYE</strong></a></div>
-        <div><a href="https://rugcheck.xyz/tokens/6XKKsryzoUjewxyQ3P4ZCZuVT1YnsY2bvQpJt7tNR49n" class="hover-underline"><strong>RUGCHECK</strong></a></div>
-        <div><a href="https://twitter.com/nickelodeon_SOL" class="hover-underline"><strong>TWITTER</strong></a></div>
-        <div><a href="https://t.me/nickelodeon_SOL" class="hover-underline"><strong>TELEGRAM</strong></a></div>
+        <div><a href="https://solscan.io/token/6SB2a8nYrpg6e6Zqf4PBQQLppVoDAgbp6Fysdy3W7cJS" class="hover-underline"><strong>SOLSCAN</strong></a></div>
+        <div><a href="https://birdeye.so/token/6SB2a8nYrpg6e6Zqf4PBQQLppVoDAgbp6Fysdy3W7cJS?chain=solana" class="hover-underline"><strong>BIRDEYE</strong></a></div>
+        <div><a href="https://rugcheck.xyz/tokens/6SB2a8nYrpg6e6Zqf4PBQQLppVoDAgbp6Fysdy3W7cJS" class="hover-underline"><strong>RUGCHECK</strong></a></div>
+        <div><a href="https://twitter.com/disneyonsol" class="hover-underline"><strong>TWITTER</strong></a></div>
+        <div><a href="https://t.me/Disney_SOL" class="hover-underline"><strong>TELEGRAM</strong></a></div>
       </div>
     <div class="flex bg-gray-300 px-3 py-1 font">
       <div class="pr-3">SEARCH</div>
@@ -58,7 +58,7 @@ Time: {{ currentTime }}
 
 
           </div>
-          <img src="@/assets/e.jpeg" class="w-full h-full" />
+          <img src="@/assets/e.jpg" class="w-full h-full" />
         </div>
         <div class="w-full grid grid-cols-5 gap-3">
           <div class="border"><img src="@/assets/f.jpg" class="w-full h-52" /></div>
@@ -68,7 +68,7 @@ Time: {{ currentTime }}
         <div class="w-full grid grid-cols-5 gap-3">
           <div class="border"><img src="@/assets/ad2.gif" class="w-full h-28" /></div>
           <div class="border col-span-3"><img src="@/assets/ad5.gif" class="w-full h-28" /></div>
-          <div class=""><img src="@/assets/logo.png" class="w-full h-28" /></div>
+
         </div>
         <div class="flex flex-col text-sm">
           <div> > <a class="hover-underline">PRIVACY POLICY</a></div>
@@ -78,7 +78,7 @@ Time: {{ currentTime }}
             <div>> <a class="hover-underline">PARENT GUIDE</a></div>
             <div>> <a class="hover-underline">TV PARENTAL GUIDELINES</a></div>
           </div>
-          <div> @2024 $NICK Token. We Are Not Affiliated With The Official Nickelodeon. Everything here is NFA</div>
+          <div> @2024 $DISNEY Token. We Are Not Affiliated With The Official DISNEY. Everything here is NFA</div>
         </div>
       </div>
     </div>
